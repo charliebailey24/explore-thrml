@@ -1,0 +1,6 @@
+# THRML - Extropics Python Library
+thrml
+
+# Optional: Jupyter for interactive exploration
+jupyter
+ipython
